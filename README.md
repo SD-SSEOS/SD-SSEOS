@@ -1,7 +1,6 @@
 
 <p align="center">
   <a href="https://netmaker.org">
-  <img src="./img/netmaker.png" width="75%"><break/>
   </a>
 </p>
 <p align="center">
